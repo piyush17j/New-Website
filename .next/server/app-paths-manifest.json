@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/repos/page": "app/repos/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/not-found": "app/not-found.js",
+  "/issues/page": "app/issues/page.js",
+  "/pulls/page": "app/pulls/page.js"
+}
